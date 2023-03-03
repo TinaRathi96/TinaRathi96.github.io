@@ -1,1 +1,1 @@
-Discord URl => https://tinarathi96.github.io/Discord/
+- *Discord URL* => https://tinarathi96.github.io/Discord/
